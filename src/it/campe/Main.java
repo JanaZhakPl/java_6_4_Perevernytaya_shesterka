@@ -4,9 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
         int six = 6;
-
-        //напишите тут ваш код
-
+        ++six; ++six; ++six;
+        //six += 3;
 
         System.out.println(six);
     }
